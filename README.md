@@ -11,16 +11,26 @@ I enjoy taking systems from sensors and firmware to simulation, perception, and 
 - **Embedded control** — STM32, ESP32-S3, FreeRTOS, sensor interfaces, and cascaded PID control
 - **System integration** — flight firmware, ground stations, mechanical design, testing, and debugging
 
+## Internship & engineering experience
+
+- **UAV integration and flight tuning** — worked with PX4-based indoor autonomous UAVs, cascaded control-loop tuning, ULog analysis, vibration diagnosis, and visual/laser-SLAM positioning workflows.
+- **AI-assisted engineering documentation** — designed a configuration-driven document production pipeline with role-based agents, state machines, commit-bound reviews, human approval gates, and GitHub Issue/PR collaboration.
+- **Robotics deployment and manufacturing** — gained hands-on experience with ROS 2, Jetson edge computers, flight-controller integration, wiring and hardware debugging, and repeatable 3D-printing workflows.
+
+These projects were completed in an internship environment. Public descriptions focus on my engineering methods and responsibilities; proprietary source code, hardware details, customer information, and internal data remain private.
+
 ## Featured projects
 
 - [DIY brushless quadrotor](https://github.com/starliliko/diy-drone-powered-by-esp32s3) — ESP32-S3 flight firmware, sensors, safety logic, mechanical CAD, and a Web ground station.
 - [UAV low-altitude perception simulation](https://github.com/starliliko/2026CV/tree/dev) — PX4 SITL + Gazebo Harmonic + ROS 2 + YOLOv8 end-to-end pipeline.
 - [RM2025 robot firmware](https://github.com/starliliko/PIE) — STM32F407 gimbal, launcher, auto-aim interface, and referee-system UI.
+- [Image dehazing and deraining toolkit](https://github.com/starliliko/image-dehaze-derain-toolkit) — PyQt5 desktop application with classical image-processing algorithms, quantitative metrics, tests, and CI.
+- [3D-printed smart car CAD](https://github.com/starliliko/3d-printed-smart-car-cad) — Autodesk Inventor mechanical design manufactured in PETG across 50 assembled units.
 - [Bilibili Video Summarizer](https://github.com/starliliko/bilibili-video-summarizer) — Installable ChatGPT/Codex plugin with subtitles-first extraction and local Whisper fallback.
 
 ## Toolbox
 
-`C` · `C++` · `Python` · `STM32` · `ESP32-S3` · `FreeRTOS` · `PX4` · `ROS 2` · `Gazebo` · `OpenCV` · `YOLOv8` · `GitHub Actions`
+`C` · `C++` · `Python` · `STM32` · `ESP32-S3` · `FreeRTOS` · `PX4` · `ROS 2` · `Gazebo` · `Jetson` · `OpenCV` · `YOLOv8` · `Autodesk Inventor` · `GitHub Actions`
 
 ## Current direction
 
