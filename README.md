@@ -23,10 +23,9 @@ These projects were completed in an internship environment. Public descriptions 
 
 - [DIY brushless quadrotor](https://github.com/starliliko/diy-drone-powered-by-esp32s3) — ESP32-S3 flight firmware, sensors, safety logic, mechanical CAD, and a Web ground station.
 - [UAV low-altitude perception simulation](https://github.com/starliliko/2026CV/tree/dev) — PX4 SITL + Gazebo Harmonic + ROS 2 + YOLOv8 end-to-end pipeline.
-- [RM2025 robot firmware](https://github.com/starliliko/PIE) — STM32F407 gimbal, launcher, auto-aim interface, and referee-system UI.
+- [RM2025 Hero Robot](https://github.com/starliliko/RM2025-Hero-Robot) — embedded control for the gimbal, launcher, swerve-drive chassis, power management, auto-aim interface, and referee-system UI.
 - [STM32F407 dual-channel oscilloscope](https://github.com/starliliko/stm32f407-oscilloscope) — FreeRTOS, LVGL, ADC/DMA double buffering, waveform triggering, measurement, and FFT analysis.
 - [3D-printed smart car CAD](https://github.com/starliliko/3d-printed-smart-car-cad) — Autodesk Inventor mechanical design manufactured in PETG across 50 assembled units.
-- [Image dehazing and deraining toolkit](https://github.com/starliliko/image-dehaze-derain-toolkit) — PyQt5 desktop application with multiple enhancement algorithms and quantitative quality metrics.
 
 ## Toolbox
 
