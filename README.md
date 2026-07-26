@@ -2,8 +2,6 @@
 
 电子信息工程专业学生，关注自主无人机、嵌入式控制与机器人系统集成。
 
-Electronic Information Engineering student focused on autonomous UAVs, embedded systems, and robotics.
-
 我喜欢把传感器、飞控固件、机械结构、仿真感知和操作工具连接成一套能够实际运行、测试和迭代的完整系统。
 
 ## 技术方向
