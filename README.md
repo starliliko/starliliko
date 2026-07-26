@@ -20,11 +20,11 @@
 
 ## 重点项目
 
-- [DIY Brushless Quadrotor](https://github.com/starliliko/diy-drone-powered-by-esp32s3) — 基于 ESP32-S3 的无刷四旋翼无人机，包含飞控固件、传感器、安全逻辑、机械 CAD 与 Web 地面站。
-- [UAV Low-altitude Perception Simulation](https://github.com/starliliko/2026CV/tree/dev) — PX4 SITL、Gazebo Harmonic、ROS 2 与 YOLOv8 组成的端到端低空感知仿真链路。
-- [RM2025 Hero Robot](https://github.com/starliliko/RM2025-Hero-Robot) — 英雄机器人云台、发射机构、舵轮底盘、功率管理、自瞄接口与裁判系统 UI。
-- [STM32F407 Dual-channel Oscilloscope](https://github.com/starliliko/stm32f407-oscilloscope) — 基于 FreeRTOS、LVGL、ADC/DMA 双缓冲、波形触发、参数测量与 FFT 分析的双通道示波器。
-- [3D-printed Smart Car CAD](https://github.com/starliliko/3d-printed-smart-car-cad) — 使用 Autodesk Inventor 完成机械设计，以 PETG 进行 3D 打印并完成 50 套制造与装配。
+- [DIY Brushless Quadrotor](https://github.com/starliliko/diy-drone-powered-by-esp32s3) — 基于 ESP32-S3 的无刷四旋翼无人机，整合飞控适配、传感器链路、四层飞控板、3D 打印机架与 Web 地面站。
+- [RM2025 Aerial Robot](https://github.com/starliliko/RM2025-Aerial-Robot) — 基于 STM32F407 与 FreeRTOS 的空中机器人电控工程，包含双轴云台、发射机构、视觉自瞄、裁判系统与操作手 UI。
+- [UAV Low-altitude Perception Simulation](https://github.com/starliliko/px4-ros2-yolo-simulation) — 基于 PX4 SITL、Gazebo Harmonic、ROS 2 与 YOLOv8 的低空目标感知仿真链路，包含图像桥接、实时检测、HUD 与结果记录。
+- [STM32F407 Dual-channel Oscilloscope](https://github.com/starliliko/stm32f407-oscilloscope) — 基于 STM32F407、FreeRTOS 与 LVGL 的双通道示波器课程原型，实现 ADC/DMA 采集、波形触发、参数测量与 FFT 分析。
+- [3D-printed Smart Car CAD](https://github.com/starliliko/3d-printed-smart-car-cad) — 使用 Autodesk Inventor 完成智能车机械设计，并以 PETG 3D 打印制作主体结构。
 
 ## 技术栈
 
